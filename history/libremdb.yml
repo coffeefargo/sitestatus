@@ -1,7 +1,7 @@
-url: https://libremdb0.herokuapp.com
-status: up
-code: 200
-responseTime: 35
-lastUpdated: 2022-08-08T11:16:46.511Z
+url: $https://libremdb0.herokuapp.com
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-08-08T13:48:58.528Z
 startTime: Mon Aug 08 2022 09:21:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
