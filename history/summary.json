@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/libreddit0.herokuapp.com",
     "slug": "libreddit",
     "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2385,
     "timeDay": 2385,
     "timeWeek": 2385,
     "timeMonth": 2385,
     "timeYear": 2385,
-    "dailyMinutesDown": {
-      "2022-08-08": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Quetre",
@@ -61,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/quetre0.herokuapp.com",
     "slug": "quetre",
     "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1742,
     "timeDay": 1742,
     "timeWeek": 1742,
     "timeMonth": 1742,
     "timeYear": 1742,
-    "dailyMinutesDown": {
-      "2022-08-08": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Libremdb",
@@ -81,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/libremdb0.herokuapp.com",
     "slug": "libremdb",
     "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1744,
     "timeDay": 1744,
     "timeWeek": 1744,
     "timeMonth": 1744,
     "timeYear": 1744,
-    "dailyMinutesDown": {
-      "2022-08-08": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fosstok",
@@ -101,18 +95,16 @@
     "icon": "https://favicons.githubusercontent.com/fosstok.herokuapp.com",
     "slug": "fosstok",
     "status": "up",
-    "uptime": "7.52%",
-    "uptimeDay": "7.52%",
-    "uptimeWeek": "7.52%",
-    "uptimeMonth": "7.52%",
-    "uptimeYear": "7.52%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 576,
     "timeDay": 576,
     "timeWeek": 576,
     "timeMonth": 576,
     "timeYear": 576,
-    "dailyMinutesDown": {
-      "2022-08-08": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
