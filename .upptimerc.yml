@@ -11,7 +11,7 @@ sites:
     url: $https://libreddit0.herokuapp.com
   - name: $Quetre
     url: $https://quetre0.herokuapp.com
-  - name: %Libremdb
+  - name: $Libremdb
     url: $https://libremdb0.herokuapp.com 
   - name: $Fosstok
     url: $https://fosstok.herokuapp.com
