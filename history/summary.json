@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 374,
-    "timeWeek": 329,
-    "timeMonth": 590,
-    "timeYear": 590,
+    "time": 577,
+    "timeDay": 307,
+    "timeWeek": 343,
+    "timeMonth": 577,
+    "timeYear": 577,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/libreddit0.herokuapp.com",
     "slug": "libreddit",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1891,
-    "timeDay": 1324,
-    "timeWeek": 1676,
-    "timeMonth": 1891,
-    "timeYear": 1891,
+    "uptime": "91.45%",
+    "uptimeDay": "26.11%",
+    "uptimeWeek": "89.44%",
+    "uptimeMonth": "91.45%",
+    "uptimeYear": "91.45%",
+    "time": 1827,
+    "timeDay": 563,
+    "timeWeek": 1482,
+    "timeMonth": 1827,
+    "timeYear": 1827,
     "dailyMinutesDown": {
-      "2022-08-16": 1
+      "2022-08-17": 41,
+      "2022-08-16": 1023
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/quetre0.herokuapp.com",
     "slug": "quetre",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 764,
-    "timeDay": 579,
-    "timeWeek": 438,
-    "timeMonth": 764,
-    "timeYear": 764,
+    "uptime": "91.45%",
+    "uptimeDay": "26.12%",
+    "uptimeWeek": "89.45%",
+    "uptimeMonth": "91.45%",
+    "uptimeYear": "91.45%",
+    "time": 753,
+    "timeDay": 561,
+    "timeWeek": 439,
+    "timeMonth": 753,
+    "timeYear": 753,
     "dailyMinutesDown": {
-      "2022-08-16": 0
+      "2022-08-17": 41,
+      "2022-08-16": 1023
     }
   },
   {
@@ -63,18 +65,19 @@
     "icon": "https://favicons.githubusercontent.com/libremdb0.herokuapp.com",
     "slug": "libremdb",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 384,
-    "timeWeek": 228,
-    "timeMonth": 663,
-    "timeYear": 663,
+    "uptime": "91.45%",
+    "uptimeDay": "26.13%",
+    "uptimeWeek": "89.45%",
+    "uptimeMonth": "91.45%",
+    "uptimeYear": "91.45%",
+    "time": 644,
+    "timeDay": 314,
+    "timeWeek": 223,
+    "timeMonth": 644,
+    "timeYear": 644,
     "dailyMinutesDown": {
-      "2022-08-16": 0
+      "2022-08-17": 41,
+      "2022-08-16": 1023
     }
   },
   {
@@ -83,18 +86,19 @@
     "icon": "https://favicons.githubusercontent.com/fosstok.herokuapp.com",
     "slug": "fosstok",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 586,
-    "timeWeek": 433,
-    "timeMonth": 441,
-    "timeYear": 441,
+    "uptime": "91.26%",
+    "uptimeDay": "26.14%",
+    "uptimeWeek": "89.45%",
+    "uptimeMonth": "91.26%",
+    "uptimeYear": "91.26%",
+    "time": 446,
+    "timeDay": 564,
+    "timeWeek": 435,
+    "timeMonth": 446,
+    "timeYear": 446,
     "dailyMinutesDown": {
-      "2022-08-16": 0
+      "2022-08-17": 41,
+      "2022-08-16": 1023
     }
   },
   {
@@ -108,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 85,
-    "timeWeek": 104,
-    "timeMonth": 212,
-    "timeYear": 212,
+    "time": 204,
+    "timeDay": 98,
+    "timeWeek": 105,
+    "timeMonth": 204,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   }
 ]
