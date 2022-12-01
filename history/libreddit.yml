@@ -1,7 +1,7 @@
 url: https://libreddit0.herokuapp.com
-status: down
-code: 503
-responseTime: 461
-lastUpdated: 2022-11-30T23:10:55.014Z
+status: up
+code: 200
+responseTime: 4777
+lastUpdated: 2022-12-01T00:53:58.063Z
 startTime: Mon Aug 08 2022 09:21:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
