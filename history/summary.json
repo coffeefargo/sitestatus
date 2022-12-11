@@ -37,7 +37,7 @@
     "timeMonth": 632,
     "timeYear": 1061,
     "dailyMinutesDown": {
-      "2022-12-11": 593,
+      "2022-12-11": 600,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
       "2022-12-08": 1440,
@@ -154,7 +154,7 @@
     "timeMonth": 689,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2022-12-11": 593,
+      "2022-12-11": 600,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
       "2022-12-08": 1440,
@@ -271,7 +271,7 @@
     "timeMonth": 510,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2022-12-11": 593,
+      "2022-12-11": 600,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
       "2022-12-08": 1440,
@@ -388,7 +388,7 @@
     "timeMonth": 629,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2022-12-11": 593,
+      "2022-12-11": 600,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
       "2022-12-08": 1440,
@@ -493,19 +493,19 @@
     "url": "https://lingva-translate-steel.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/lingva-translate-steel.vercel.app.ico",
     "slug": "lingva",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 191,
-    "timeWeek": 153,
-    "timeMonth": 153,
-    "timeYear": 219,
+    "time": 218,
+    "timeDay": 156,
+    "timeWeek": 146,
+    "timeMonth": 151,
+    "timeYear": 218,
     "dailyMinutesDown": {
-      "2022-12-11": 0
+      "2022-12-11": 6
     }
   }
 ]
