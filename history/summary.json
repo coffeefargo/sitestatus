@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 671,
-    "timeDay": 374,
-    "timeWeek": 399,
-    "timeMonth": 857,
-    "timeYear": 667,
+    "timeDay": 489,
+    "timeWeek": 383,
+    "timeMonth": 863,
+    "timeYear": 668,
     "dailyMinutesDown": {
       "2023-06-06": 16,
       "2023-03-22": 16
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit0.herokuapp.com.ico",
     "slug": "libreddit",
     "status": "down",
-    "uptime": "6.63%",
+    "uptime": "6.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 513,
-    "timeDay": 36,
+    "timeDay": 281,
     "timeWeek": 226,
-    "timeMonth": 168,
-    "timeYear": 368,
+    "timeMonth": 165,
+    "timeYear": 367,
     "dailyMinutesDown": {
-      "2023-12-19": 32,
+      "2023-12-20": 26,
+      "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
@@ -400,8 +401,7 @@
       "2022-12-24": 1440,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
-      "2022-12-21": 1440,
-      "2022-12-20": 1440
+      "2022-12-21": 1440
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/quetre0.herokuapp.com.ico",
     "slug": "quetre",
     "status": "down",
-    "uptime": "6.63%",
+    "uptime": "6.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 473,
-    "timeDay": 34,
-    "timeWeek": 123,
-    "timeMonth": 150,
+    "timeDay": 285,
+    "timeWeek": 161,
+    "timeMonth": 147,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2023-12-19": 32,
+      "2023-12-20": 26,
+      "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
@@ -784,8 +785,7 @@
       "2022-12-24": 1440,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
-      "2022-12-21": 1440,
-      "2022-12-20": 1440
+      "2022-12-21": 1440
     }
   },
   {
@@ -794,18 +794,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/libremdb0.herokuapp.com.ico",
     "slug": "libremdb",
     "status": "down",
-    "uptime": "6.64%",
+    "uptime": "6.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 256,
-    "timeDay": 290,
-    "timeWeek": 159,
-    "timeMonth": 151,
+    "timeDay": 284,
+    "timeWeek": 195,
+    "timeMonth": 148,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2023-12-19": 32,
+      "2023-12-20": 26,
+      "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
@@ -1168,8 +1169,7 @@
       "2022-12-24": 1440,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
-      "2022-12-21": 1440,
-      "2022-12-20": 1440
+      "2022-12-21": 1440
     }
   },
   {
@@ -1178,18 +1178,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fosstok.herokuapp.com.ico",
     "slug": "fosstok",
     "status": "down",
-    "uptime": "6.61%",
+    "uptime": "6.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 448,
-    "timeDay": 31,
-    "timeWeek": 155,
-    "timeMonth": 155,
-    "timeYear": 367,
+    "time": 447,
+    "timeDay": 28,
+    "timeWeek": 116,
+    "timeMonth": 153,
+    "timeYear": 366,
     "dailyMinutesDown": {
-      "2023-12-19": 32,
+      "2023-12-20": 26,
+      "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
@@ -1552,8 +1553,7 @@
       "2022-12-24": 1440,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
-      "2022-12-21": 1440,
-      "2022-12-20": 1440
+      "2022-12-21": 1440
     }
   },
   {
@@ -1568,9 +1568,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 35,
-    "timeWeek": 55,
-    "timeMonth": 91,
+    "timeDay": 63,
+    "timeWeek": 57,
+    "timeMonth": 90,
     "timeYear": 155,
     "dailyMinutesDown": {}
   }
