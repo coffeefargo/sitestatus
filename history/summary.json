@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 679,
-    "timeDay": 3975,
-    "timeWeek": 879,
-    "timeMonth": 982,
-    "timeYear": 677,
+    "timeDay": 554,
+    "timeWeek": 919,
+    "timeMonth": 975,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2023-06-06": 16,
       "2023-03-22": 16
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit0.herokuapp.com.ico",
     "slug": "libreddit",
     "status": "down",
-    "uptime": "6.61%",
+    "uptime": "6.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 512,
-    "timeDay": 58,
-    "timeWeek": 230,
-    "timeMonth": 166,
+    "timeDay": 563,
+    "timeWeek": 269,
+    "timeMonth": 183,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2023-12-21": 31,
+      "2023-12-22": 31,
+      "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
@@ -400,8 +401,7 @@
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
-      "2022-12-23": 1440,
-      "2022-12-22": 1440
+      "2022-12-23": 1440
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/quetre0.herokuapp.com.ico",
     "slug": "quetre",
     "status": "down",
-    "uptime": "6.60%",
+    "uptime": "6.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 471,
-    "timeDay": 54,
-    "timeWeek": 164,
-    "timeMonth": 148,
-    "timeYear": 378,
+    "timeDay": 254,
+    "timeWeek": 196,
+    "timeMonth": 155,
+    "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-12-21": 31,
+      "2023-12-22": 31,
+      "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
@@ -784,8 +785,7 @@
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
-      "2022-12-23": 1440,
-      "2022-12-22": 1440
+      "2022-12-23": 1440
     }
   },
   {
@@ -794,18 +794,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/libremdb0.herokuapp.com.ico",
     "slug": "libremdb",
     "status": "down",
-    "uptime": "6.62%",
+    "uptime": "6.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 255,
-    "timeDay": 53,
-    "timeWeek": 198,
-    "timeMonth": 149,
-    "timeYear": 181,
+    "timeDay": 329,
+    "timeWeek": 236,
+    "timeMonth": 159,
+    "timeYear": 182,
     "dailyMinutesDown": {
-      "2023-12-21": 31,
+      "2023-12-22": 31,
+      "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
@@ -1168,8 +1169,7 @@
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
-      "2022-12-23": 1440,
-      "2022-12-22": 1440
+      "2022-12-23": 1440
     }
   },
   {
@@ -1178,18 +1178,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fosstok.herokuapp.com.ico",
     "slug": "fosstok",
     "status": "down",
-    "uptime": "6.58%",
+    "uptime": "6.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 446,
-    "timeDay": 58,
-    "timeWeek": 83,
-    "timeMonth": 154,
+    "time": 445,
+    "timeDay": 322,
+    "timeWeek": 124,
+    "timeMonth": 155,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2023-12-21": 31,
+      "2023-12-22": 31,
+      "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
@@ -1552,8 +1553,7 @@
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
-      "2022-12-23": 1440,
-      "2022-12-22": 1440
+      "2022-12-23": 1440
     }
   },
   {
@@ -1568,9 +1568,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 104,
-    "timeWeek": 68,
-    "timeMonth": 88,
+    "timeDay": 222,
+    "timeWeek": 95,
+    "timeMonth": 94,
     "timeYear": 155,
     "dailyMinutesDown": {}
   }
