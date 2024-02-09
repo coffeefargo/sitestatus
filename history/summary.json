@@ -4,19 +4,19 @@
     "url": "https://gstar.gq",
     "icon": "https://icons.duckduckgo.com/ip3/gstar.gq.ico",
     "slug": "gstar",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "74.64%",
-    "uptimeWeek": "96.38%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "75.08%",
+    "uptimeWeek": "96.44%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.93%",
     "time": 686,
     "timeDay": 1470,
     "timeWeek": 875,
     "timeMonth": 554,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2024-02-09": 365,
+      "2024-02-09": 359,
       "2023-06-06": 16,
       "2023-03-22": 16
     }
@@ -38,7 +38,7 @@
     "timeMonth": 189,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2024-02-09": 1376,
+      "2024-02-09": 1387,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
@@ -422,7 +422,7 @@
     "timeMonth": 186,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2024-02-09": 1376,
+      "2024-02-09": 1387,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
@@ -806,7 +806,7 @@
     "timeMonth": 217,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2024-02-09": 1376,
+      "2024-02-09": 1387,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
@@ -1190,7 +1190,7 @@
     "timeMonth": 207,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2024-02-09": 1376,
+      "2024-02-09": 1387,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
