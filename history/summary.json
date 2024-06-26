@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gstar.gq.ico",
     "slug": "gstar",
     "status": "down",
-    "uptime": "80.06%",
+    "uptime": "80.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.44%",
+    "uptimeYear": "62.33%",
     "time": 711,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2024-06-26": 34,
+      "2024-06-26": 635,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
@@ -174,7 +174,7 @@
     "timeMonth": 147,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2024-06-26": 34,
+      "2024-06-26": 635,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
@@ -558,7 +558,7 @@
     "timeMonth": 197,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2024-06-26": 34,
+      "2024-06-26": 635,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
@@ -931,7 +931,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/libremdb0.herokuapp.com.ico",
     "slug": "libremdb",
     "status": "down",
-    "uptime": "4.81%",
+    "uptime": "4.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -942,7 +942,7 @@
     "timeMonth": 183,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2024-06-26": 34,
+      "2024-06-26": 635,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
@@ -1326,7 +1326,7 @@
     "timeMonth": 145,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2024-06-26": 34,
+      "2024-06-26": 635,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
@@ -1698,9 +1698,9 @@
     "url": "https://lingva-translate-steel.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/lingva-translate-steel.vercel.app.ico",
     "slug": "lingva",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -1709,6 +1709,8 @@
     "timeWeek": 118,
     "timeMonth": 110,
     "timeYear": 164,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-26": 0
+    }
   }
 ]
