@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gstar.gq.ico",
     "slug": "gstar",
     "status": "down",
-    "uptime": "77.36%",
+    "uptime": "77.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "55.87%",
-    "time": 683,
+    "uptimeYear": "55.59%",
+    "time": 684,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 668,
+    "timeYear": 652,
     "dailyMinutesDown": {
-      "2024-07-20": 34,
+      "2024-07-21": 38,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -187,18 +188,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit0.herokuapp.com.ico",
     "slug": "libreddit",
     "status": "down",
-    "uptime": "4.64%",
+    "uptime": "4.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 286,
-    "timeDay": 327,
-    "timeWeek": 228,
+    "timeDay": 65,
+    "timeWeek": 207,
     "timeMonth": 240,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2024-07-20": 34,
+      "2024-07-21": 39,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -561,8 +563,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
-      "2023-07-23": 1440,
-      "2023-07-22": 1440
+      "2023-07-23": 1440
     }
   },
   {
@@ -571,18 +572,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/quetre0.herokuapp.com.ico",
     "slug": "quetre",
     "status": "down",
-    "uptime": "4.64%",
+    "uptime": "4.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 311,
-    "timeDay": 317,
-    "timeWeek": 233,
+    "time": 310,
+    "timeDay": 51,
+    "timeWeek": 211,
     "timeMonth": 231,
-    "timeYear": 253,
+    "timeYear": 252,
     "dailyMinutesDown": {
-      "2024-07-20": 34,
+      "2024-07-21": 39,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -945,8 +947,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
-      "2023-07-23": 1440,
-      "2023-07-22": 1440
+      "2023-07-23": 1440
     }
   },
   {
@@ -955,18 +956,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/libremdb0.herokuapp.com.ico",
     "slug": "libremdb",
     "status": "down",
-    "uptime": "4.65%",
+    "uptime": "4.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 217,
-    "timeDay": 274,
-    "timeWeek": 230,
-    "timeMonth": 250,
+    "timeDay": 42,
+    "timeWeek": 206,
+    "timeMonth": 249,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2024-07-20": 34,
+      "2024-07-21": 39,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -1329,8 +1331,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
-      "2023-07-23": 1440,
-      "2023-07-22": 1440
+      "2023-07-23": 1440
     }
   },
   {
@@ -1345,12 +1346,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 286,
-    "timeDay": 514,
-    "timeWeek": 302,
-    "timeMonth": 279,
-    "timeYear": 235,
+    "timeDay": 40,
+    "timeWeek": 280,
+    "timeMonth": 269,
+    "timeYear": 234,
     "dailyMinutesDown": {
-      "2024-07-20": 34,
+      "2024-07-21": 39,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -1713,8 +1715,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
-      "2023-07-23": 1440,
-      "2023-07-22": 1440
+      "2023-07-23": 1440
     }
   },
   {
@@ -1729,10 +1730,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 364,
-    "timeWeek": 161,
+    "timeDay": 73,
+    "timeWeek": 157,
     "timeMonth": 156,
-    "timeYear": 164,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   }
 ]
