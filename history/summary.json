@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gstar.gq.ico",
     "slug": "gstar",
     "status": "down",
-    "uptime": "65.10%",
+    "uptime": "65.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "19.15%",
+    "uptimeYear": "18.88%",
     "time": 644,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 734,
+    "timeYear": 735,
     "dailyMinutesDown": {
-      "2024-12-01": 54,
+      "2024-12-02": 46,
+      "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -327,12 +328,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 236,
-    "timeDay": 355,
-    "timeWeek": 184,
-    "timeMonth": 220,
-    "timeYear": 217,
+    "timeDay": 580,
+    "timeWeek": 243,
+    "timeMonth": 229,
+    "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-12-01": 54,
+      "2024-12-02": 46,
+      "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -695,8 +697,7 @@
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
-      "2023-12-04": 1440,
-      "2023-12-03": 1440
+      "2023-12-04": 1440
     }
   },
   {
@@ -711,12 +712,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 247,
-    "timeDay": 305,
-    "timeWeek": 228,
-    "timeMonth": 225,
-    "timeYear": 228,
+    "timeDay": 578,
+    "timeWeek": 248,
+    "timeMonth": 242,
+    "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-12-01": 54,
+      "2024-12-02": 46,
+      "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -1079,8 +1081,7 @@
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
-      "2023-12-04": 1440,
-      "2023-12-03": 1440
+      "2023-12-04": 1440
     }
   },
   {
@@ -1089,18 +1090,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/libremdb0.herokuapp.com.ico",
     "slug": "libremdb",
     "status": "down",
-    "uptime": "3.91%",
+    "uptime": "3.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 237,
-    "timeDay": 601,
-    "timeWeek": 304,
-    "timeMonth": 219,
+    "timeDay": 578,
+    "timeWeek": 326,
+    "timeMonth": 228,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2024-12-01": 54,
+      "2024-12-02": 46,
+      "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -1463,8 +1465,7 @@
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
-      "2023-12-04": 1440,
-      "2023-12-03": 1440
+      "2023-12-04": 1440
     }
   },
   {
@@ -1473,18 +1474,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fosstok.herokuapp.com.ico",
     "slug": "fosstok",
     "status": "down",
-    "uptime": "3.89%",
+    "uptime": "3.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 244,
-    "timeDay": 306,
-    "timeWeek": 194,
-    "timeMonth": 234,
+    "timeDay": 303,
+    "timeWeek": 175,
+    "timeMonth": 242,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-12-01": 54,
+      "2024-12-02": 46,
+      "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -1847,8 +1849,7 @@
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
-      "2023-12-04": 1440,
-      "2023-12-03": 1440
+      "2023-12-04": 1440
     }
   },
   {
@@ -1863,9 +1864,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 51,
-    "timeWeek": 103,
-    "timeMonth": 154,
+    "timeDay": 55,
+    "timeWeek": 98,
+    "timeMonth": 152,
     "timeYear": 152,
     "dailyMinutesDown": {}
   }
