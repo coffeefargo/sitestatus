@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gstar.gq.ico",
     "slug": "gstar",
     "status": "down",
-    "uptime": "57.66%",
+    "uptime": "57.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 762,
+    "time": 765,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-20": 43,
+      "2025-03-21": 44,
+      "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -379,8 +380,7 @@
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
-      "2024-03-22": 1440,
-      "2024-03-21": 1440
+      "2024-03-22": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit0.herokuapp.com.ico",
     "slug": "libreddit",
     "status": "down",
-    "uptime": "3.46%",
+    "uptime": "3.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 224,
-    "timeDay": 318,
-    "timeWeek": 258,
-    "timeMonth": 226,
+    "time": 223,
+    "timeDay": 96,
+    "timeWeek": 263,
+    "timeMonth": 219,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-03-20": 43,
+      "2025-03-21": 44,
+      "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -763,8 +764,7 @@
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
-      "2024-03-22": 1440,
-      "2024-03-21": 1440
+      "2024-03-22": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/quetre0.herokuapp.com.ico",
     "slug": "quetre",
     "status": "down",
-    "uptime": "3.46%",
+    "uptime": "3.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 237,
-    "timeDay": 320,
-    "timeWeek": 258,
-    "timeMonth": 239,
+    "time": 236,
+    "timeDay": 72,
+    "timeWeek": 259,
+    "timeMonth": 231,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2025-03-20": 43,
+      "2025-03-21": 44,
+      "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -1147,8 +1148,7 @@
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
-      "2024-03-22": 1440,
-      "2024-03-21": 1440
+      "2024-03-22": 1440
     }
   },
   {
@@ -1163,12 +1163,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 250,
-    "timeDay": 592,
+    "timeDay": 71,
     "timeWeek": 218,
-    "timeMonth": 291,
-    "timeYear": 255,
+    "timeMonth": 283,
+    "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-03-20": 43,
+      "2025-03-21": 44,
+      "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -1531,8 +1532,7 @@
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
-      "2024-03-22": 1440,
-      "2024-03-21": 1440
+      "2024-03-22": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fosstok.herokuapp.com.ico",
     "slug": "fosstok",
     "status": "down",
-    "uptime": "3.45%",
+    "uptime": "3.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 228,
-    "timeDay": 316,
-    "timeWeek": 179,
-    "timeMonth": 218,
+    "timeDay": 329,
+    "timeWeek": 217,
+    "timeMonth": 220,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2025-03-20": 43,
+      "2025-03-21": 44,
+      "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -1915,8 +1916,7 @@
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
-      "2024-03-22": 1440,
-      "2024-03-21": 1440
+      "2024-03-22": 1440
     }
   },
   {
@@ -1931,9 +1931,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 56,
-    "timeWeek": 125,
-    "timeMonth": 142,
+    "timeDay": 78,
+    "timeWeek": 122,
+    "timeMonth": 140,
     "timeYear": 131,
     "dailyMinutesDown": {}
   }
