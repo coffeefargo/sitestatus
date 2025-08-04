@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-04": 1052,
+      "2025-08-04": 1070,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 284,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-08-04": 1052,
+      "2025-08-04": 1070,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 322,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-08-04": 1052,
+      "2025-08-04": 1070,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 272,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-08-04": 1052,
+      "2025-08-04": 1070,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
@@ -1552,7 +1552,7 @@
     "timeMonth": 257,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-08-04": 1052,
+      "2025-08-04": 1070,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
@@ -1924,19 +1924,19 @@
     "url": "https://lingva-translate-steel.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/lingva-translate-steel.vercel.app.ico",
     "slug": "lingva",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 136,
-    "timeDay": 96,
-    "timeWeek": 104,
+    "timeDay": 127,
+    "timeWeek": 110,
     "timeMonth": 160,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-08-04": 0,
+      "2025-08-04": 18,
       "2025-07-15": 18
     }
   }
