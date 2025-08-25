@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gstar.gq.ico",
     "slug": "gstar",
     "status": "down",
-    "uptime": "49.48%",
+    "uptime": "49.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-25": 50,
+      "2025-08-25": 696,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 276,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-08-25": 50,
+      "2025-08-25": 696,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/quetre0.herokuapp.com.ico",
     "slug": "quetre",
     "status": "down",
-    "uptime": "2.97%",
+    "uptime": "2.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -784,7 +784,7 @@
     "timeMonth": 242,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2025-08-25": 50,
+      "2025-08-25": 696,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 256,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-08-25": 50,
+      "2025-08-25": 696,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -1541,7 +1541,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fosstok.herokuapp.com.ico",
     "slug": "fosstok",
     "status": "down",
-    "uptime": "2.96%",
+    "uptime": "2.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1552,7 +1552,7 @@
     "timeMonth": 238,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2025-08-25": 50,
+      "2025-08-25": 696,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -1924,9 +1924,9 @@
     "url": "https://lingva-translate-steel.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/lingva-translate-steel.vercel.app.ico",
     "slug": "lingva",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -1936,6 +1936,7 @@
     "timeMonth": 136,
     "timeYear": 139,
     "dailyMinutesDown": {
+      "2025-08-25": 0,
       "2025-08-04": 18,
       "2025-07-15": 18
     }
