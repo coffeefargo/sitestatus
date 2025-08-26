@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gstar.gq.ico",
     "slug": "gstar",
     "status": "down",
-    "uptime": "49.42%",
+    "uptime": "49.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-26": 469,
+      "2025-08-26": 696,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 275,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-08-26": 469,
+      "2025-08-26": 696,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 254,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-08-26": 469,
+      "2025-08-26": 696,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 251,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-08-26": 469,
+      "2025-08-26": 696,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -1552,7 +1552,7 @@
     "timeMonth": 233,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2025-08-26": 469,
+      "2025-08-26": 696,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -1924,11 +1924,11 @@
     "url": "https://lingva-translate-steel.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/lingva-translate-steel.vercel.app.ico",
     "slug": "lingva",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 137,
     "timeDay": 162,
@@ -1936,7 +1936,7 @@
     "timeMonth": 141,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-08-26": 6,
+      "2025-08-26": 0,
       "2025-08-04": 18,
       "2025-07-15": 18
     }
