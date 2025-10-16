@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gstar.gq.ico",
     "slug": "gstar",
     "status": "down",
-    "uptime": "47.27%",
+    "uptime": "47.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-16": 45,
+      "2025-10-16": 1189,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 231,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-10-16": 45,
+      "2025-10-16": 1189,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 266,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2025-10-16": 45,
+      "2025-10-16": 1189,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 253,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-10-16": 45,
+      "2025-10-16": 1189,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -1552,7 +1552,7 @@
     "timeMonth": 250,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-10-16": 46,
+      "2025-10-16": 1189,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -1924,9 +1924,9 @@
     "url": "https://lingva-translate-steel.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/lingva-translate-steel.vercel.app.ico",
     "slug": "lingva",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.98%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.93%",
@@ -1936,6 +1936,7 @@
     "timeMonth": 154,
     "timeYear": 145,
     "dailyMinutesDown": {
+      "2025-10-16": 0,
       "2025-10-13": 102,
       "2025-10-12": 0,
       "2025-09-15": 99,
