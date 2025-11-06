@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gstar.gq.ico",
     "slug": "gstar",
     "status": "down",
-    "uptime": "46.47%",
+    "uptime": "46.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-05": 50,
+      "2025-11-06": 48,
+      "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -379,8 +380,7 @@
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
-      "2024-11-07": 1440,
-      "2024-11-06": 1440
+      "2024-11-07": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit0.herokuapp.com.ico",
     "slug": "libreddit",
     "status": "down",
-    "uptime": "2.79%",
+    "uptime": "2.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 243,
-    "timeDay": 180,
-    "timeWeek": 231,
-    "timeMonth": 213,
+    "timeDay": 269,
+    "timeWeek": 262,
+    "timeMonth": 217,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-11-05": 50,
+      "2025-11-06": 48,
+      "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -763,8 +764,7 @@
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
-      "2024-11-07": 1440,
-      "2024-11-06": 1440
+      "2024-11-07": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/quetre0.herokuapp.com.ico",
     "slug": "quetre",
     "status": "down",
-    "uptime": "2.79%",
+    "uptime": "2.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 248,
-    "timeDay": 161,
-    "timeWeek": 215,
-    "timeMonth": 222,
-    "timeYear": 255,
+    "time": 249,
+    "timeDay": 556,
+    "timeWeek": 284,
+    "timeMonth": 234,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-11-05": 50,
+      "2025-11-06": 48,
+      "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -1147,8 +1148,7 @@
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
-      "2024-11-07": 1440,
-      "2024-11-06": 1440
+      "2024-11-07": 1440
     }
   },
   {
@@ -1162,13 +1162,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 249,
-    "timeDay": 157,
-    "timeWeek": 231,
-    "timeMonth": 221,
+    "time": 250,
+    "timeDay": 549,
+    "timeWeek": 302,
+    "timeMonth": 234,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-11-05": 50,
+      "2025-11-06": 48,
+      "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -1531,8 +1532,7 @@
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
-      "2024-11-07": 1440,
-      "2024-11-06": 1440
+      "2024-11-07": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fosstok.herokuapp.com.ico",
     "slug": "fosstok",
     "status": "down",
-    "uptime": "2.78%",
+    "uptime": "2.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 259,
-    "timeDay": 161,
-    "timeWeek": 222,
-    "timeMonth": 203,
-    "timeYear": 254,
+    "timeDay": 290,
+    "timeWeek": 252,
+    "timeMonth": 207,
+    "timeYear": 253,
     "dailyMinutesDown": {
-      "2025-11-05": 50,
+      "2025-11-06": 48,
+      "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -1915,8 +1916,7 @@
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
-      "2024-11-07": 1440,
-      "2024-11-06": 1440
+      "2024-11-07": 1440
     }
   },
   {
@@ -1931,10 +1931,10 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.92%",
     "time": 148,
-    "timeDay": 253,
-    "timeWeek": 132,
-    "timeMonth": 225,
-    "timeYear": 154,
+    "timeDay": 157,
+    "timeWeek": 138,
+    "timeMonth": 226,
+    "timeYear": 155,
     "dailyMinutesDown": {
       "2025-11-01": 16,
       "2025-10-20": 40,
