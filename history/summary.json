@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gstar.gq.ico",
     "slug": "gstar",
     "status": "down",
-    "uptime": "44.80%",
+    "uptime": "44.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-19": 52,
+      "2025-12-20": 49,
+      "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
@@ -379,8 +380,7 @@
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
-      "2024-12-21": 1440,
-      "2024-12-20": 1440
+      "2024-12-21": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit0.herokuapp.com.ico",
     "slug": "libreddit",
     "status": "down",
-    "uptime": "2.69%",
+    "uptime": "2.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 246,
-    "timeDay": 541,
-    "timeWeek": 333,
-    "timeMonth": 307,
+    "timeDay": 330,
+    "timeWeek": 336,
+    "timeMonth": 308,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2025-12-19": 52,
+      "2025-12-20": 49,
+      "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
@@ -763,8 +764,7 @@
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
-      "2024-12-21": 1440,
-      "2024-12-20": 1440
+      "2024-12-21": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/quetre0.herokuapp.com.ico",
     "slug": "quetre",
     "status": "down",
-    "uptime": "2.69%",
+    "uptime": "2.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 252,
-    "timeDay": 161,
-    "timeWeek": 298,
-    "timeMonth": 264,
+    "time": 253,
+    "timeDay": 329,
+    "timeWeek": 263,
+    "timeMonth": 256,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-12-19": 52,
+      "2025-12-20": 49,
+      "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
@@ -1147,8 +1148,7 @@
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
-      "2024-12-21": 1440,
-      "2024-12-20": 1440
+      "2024-12-21": 1440
     }
   },
   {
@@ -1163,12 +1163,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 250,
-    "timeDay": 164,
-    "timeWeek": 276,
-    "timeMonth": 262,
+    "timeDay": 107,
+    "timeWeek": 248,
+    "timeMonth": 255,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-12-19": 52,
+      "2025-12-20": 49,
+      "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
@@ -1531,8 +1532,7 @@
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
-      "2024-12-21": 1440,
-      "2024-12-20": 1440
+      "2024-12-21": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fosstok.herokuapp.com.ico",
     "slug": "fosstok",
     "status": "down",
-    "uptime": "2.68%",
+    "uptime": "2.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 258,
-    "timeDay": 471,
-    "timeWeek": 316,
-    "timeMonth": 254,
-    "timeYear": 256,
+    "time": 257,
+    "timeDay": 72,
+    "timeWeek": 280,
+    "timeMonth": 247,
+    "timeYear": 255,
     "dailyMinutesDown": {
-      "2025-12-19": 52,
+      "2025-12-20": 49,
+      "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
@@ -1915,8 +1916,7 @@
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
-      "2024-12-21": 1440,
-      "2024-12-20": 1440
+      "2024-12-21": 1440
     }
   },
   {
@@ -1931,9 +1931,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
     "time": 147,
-    "timeDay": 69,
-    "timeWeek": 100,
-    "timeMonth": 111,
+    "timeDay": 124,
+    "timeWeek": 108,
+    "timeMonth": 109,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2025-12-07": 16,
